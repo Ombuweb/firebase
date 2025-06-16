@@ -53,7 +53,7 @@ This plugin allows you to use the [Firebase Remote Config](https://firebase.goog
 
 ## Set up your app for Firebase
 
-You need to set up your app for Firebase before you can enable Firebase Remote Config. To set up and initialize Firebase for your NativeScript app, follow the instructions on the documentation of the [@nativescript/firebase-core](../firebase-core/) plugin.
+You need to set up your app for Firebase before you can enable Firebase Remote Config. To set up and initialize Firebase for your NativeScript app, follow the instructions on the documentation of the [@nativescript/firebase-core](../plugins/firebase-core/) plugin.
 
 ## Add the Firebase Remote Config SDK to your app
 
